@@ -11,3 +11,8 @@ Let's see if I can do a bit of brutalist web design !!!
 Time to move forward and keep improving my two pages, it's nice to see all my efforts are paying off
 Trying my best to commit as much as I can in order to get used to it. 
 Back to it now !!!!!
+
+28/04/2023
+Nearly done with my first assignment, I will create and add my last recipe to the index file. 
+Usual boilerplate and same content as the two previous one
+GOOOOO !!!
